@@ -4,14 +4,8 @@ thank to Duniasosmed.com who has provided the panel source code for free, and ca
 
 
 
-
-
-
-
-# People Who Viewed These Projects
-
 <p align="center"> 
- VISITOR GITHUB<br>
-  <img src="https://profile-counter.glitch.me/hansalrl/count.svg" />
+ People Who Viewed These Projects<br>
+  <img src="https://profile-counter.glitch.me/hansalrl/panel/count.svg" />
 </p>
 
